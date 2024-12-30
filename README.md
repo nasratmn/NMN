@@ -1,5 +1,4 @@
-# Nasrat Maiwand
-Hi, I'm Nasrat 👋
+# Hi There, I'm Nasrat 👋
 
 Welcome to my GitHub profile! Here's a bit about me:
 
@@ -8,10 +7,15 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 💡 **Interests:** I am passionate about **learning coding** and **programming**.
 - 🚀 **Goal:** I aim to use technology to address real-world challenges and  
   drive impactful solutions.
-- 📫 **Reach me:** 
+- 📫 **Reach me:**
   - [LinkedIn](https://www.linkedin.com/in/nasratmaiwand/)
   - [Email](mailto:nasratmaiwand@gmail.com)
 
+## **Want to Learn**
+
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+- [![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+- [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 ## GitHub Stats
 
